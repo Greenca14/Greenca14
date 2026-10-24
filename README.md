@@ -17,9 +17,8 @@
 - 🐍 Python backend development experience with Django and FastAPI.
 - 🧪 Learning software testing, test design and bug reporting.
 - 🔌 Interested in API testing and backend quality assurance.
-- 🗄️ Familiar with SQL, Git and relational databases.
-- 🎮 Interested in game development and game testing.
-- 🥋 Former member of the Khanty-Mansi Autonomous Okrug Mixed Martial Arts team.
+- ⚙  Familiar with SQL, Git and relational databases.
+- 🎮 Interested in game testing.
 
 ## 🛠️ Tech Stack
 
